@@ -53,3 +53,7 @@ h1{
 h3{
 	color: #FFFFFF;
 }
+.imgFloatRight {
+    margin: 20;
+    float: right;
+}
