@@ -1,6 +1,9 @@
 @charset "utf-8";
 /* CSS Document for Freelance Webcite*/
-body{background: #3A3A3A}
+body{
+    background: #3A3A3A;
+    color: #FFFFFF;
+}
 div {
 height: auto;
     width: 1200px;
@@ -166,11 +169,13 @@ h3{
   -webkit-transition: none;
   transition: none;
 }
+#contactInfo h3 {
+    color: #FFFFFF;
+}
+
 
 @media screen and (max-width:760px){
   .navmenu li a{
     font-size: 1.5em;
   }
 }
-
-
